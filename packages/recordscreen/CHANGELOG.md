@@ -1,5 +1,11 @@
 # @websee/recordscreen
 
+## 4.0.3
+
+### Patch Changes
+
+- feat: update rrweb
+
 ## 4.0.2
 
 ### Patch Changes
